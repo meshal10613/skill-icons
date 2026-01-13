@@ -42,6 +42,7 @@ const shortNames = {
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
   facebook: 'facebook',
+  shadcnui: 'shadcnui',
 };
 const themedIcons = [
   ...Object.keys(icons)
